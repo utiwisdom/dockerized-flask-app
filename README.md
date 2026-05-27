@@ -27,7 +27,7 @@ The goal was to understand how Docker creates consistent, portable environments 
 
 # 🖼️ Application Running Successfully
 
-![Docker App Running](screenshots/browser-output.png)
+![Docker App Running](browser-output.png
 
 ---
 
